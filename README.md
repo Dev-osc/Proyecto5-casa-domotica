@@ -1,4 +1,5 @@
 Proyecto: Sistema de Casa Domótica
+
 Este proyecto es una implementación de un sistema de domótica que permite gestionar diversos dispositivos dentro de una casa inteligente. Los dispositivos incluyen bombillas, cerraduras y otros componentes que pueden ser controlados y monitoreados. El sistema permite realizar tareas como encender/apagar dispositivos, ajustar la intensidad de las bombillas, y gestionar cerraduras de forma programática.
 
 -Características del Proyecto
